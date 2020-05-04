@@ -1,0 +1,5 @@
+build
+tsc -t es5 script.ts
+
+run 
+node script.js
